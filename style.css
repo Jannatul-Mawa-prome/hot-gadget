@@ -27,6 +27,9 @@
     font-size: 18px;
     font-weight: 600;
 }
+.card-deck{
+    margin-bottom: 50px;
+}
 .card {
     padding: 20px;
     border: none;
